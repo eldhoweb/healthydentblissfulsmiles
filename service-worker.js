@@ -1,4 +1,4 @@
-const CACHE = 'healthydent-v2';
+const CACHE = 'healthydent-v3';
 
 const PRECACHE_URLS = [
   '/',
